@@ -1,1 +1,0 @@
-## claude skill sample
